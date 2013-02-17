@@ -1,17 +1,17 @@
 === Multisite Admin Bar Switcher ===
-Author: Flynsarmy
-Contributors: sjlevy
+Contributors: Flynsarmy
 Tags: multisite, toolbar, switcher, switch, network
 Requires at least: 3.2.1
 Tested up to: 3.5.1
-Stable tag: 1
+Stable tag: 1.0.1
 
 == Description ==
 
 The Multisite Admin Bar Switcher is a plugin written for WordPress Multi-Site
-that makes switching between sites easier with large numbers of sites. It
-replaces the built in 'sites' drop down with one which breaks the sites
-up by letter.
+that makes switching between sites easier with large numbers of sites.
+
+This plugin replaces the built in 'sites' drop down with one which breaks the
+sites up by letter.
 
 == Installation ==
 
@@ -24,6 +24,9 @@ The switcher will now appear on the Admin Menu
 1. Multisite Admin bar Switcher in action
 
 == Changelog ==
+
+= 1.0.1 =
+* Minor readme updates
 
 = 1.0 =
 
